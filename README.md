@@ -4,4 +4,4 @@
 ![image](https://user-images.githubusercontent.com/107084445/173158777-bed7c9f9-f023-4163-afbd-9e3ca933c1ca.png)
 <hr>
 
-<p>Um simples site feito utilizando as tecnologias HTML e CSS, o mesmo projetado para melhorar minhas habilidades como front-end, para facilitar a visualização do mini-projeto eu hospedei no <a href="https://pages.github.com" target="_blank">GitHub Pages</a> e você consegue ver através desse <a href="https://alexfrocha.github.io/qr-code/">link</a></p>
+<p>Um simples site feito utilizando as tecnologias HTML e CSS, o mesmo projetado para melhorar minhas habilidades como front-end, para facilitar a visualização do mini-projeto eu hospedei no <a href="https://pages.github.com" target="_blank">GitHub Pages</a> e você consegue ver através desse <a href="https://alexfrocha.github.io/nft-card/">link</a></p>
